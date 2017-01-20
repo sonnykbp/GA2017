@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 24px;
+	color: crimson;}
+
+p {font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+   font-size: 16px;
+   font-style: italic;
+   color: darkblue;}
